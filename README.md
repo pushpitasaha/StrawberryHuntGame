@@ -16,6 +16,7 @@
 - **Movement**: Control the snake’s movement in four directions.
 - **Strawberry Item**: The strawberry serves as the main asset and food for the snake.
 - **Score Tracking**: Each strawberry eaten increases the player's score.
+- **Audio Integration**: Background gameplay music and eat and collision sound-effects have been applied.
 - **Increasing Difficulty**: As the snake eats strawberries, it becomes longer and moves faster, intensifying the game.
 
 ## Built With
@@ -54,4 +55,4 @@ To run **Strawberry Hunt** locally, follow these steps:
   - **Controls:** Use arrow keys to move the snake in the desired direction.
   - **Goal:** Avoid crashing into the walls or the snake’s own body as it grows longer and faster with each strawberry consumed.
 
-
+Have fun with the game! 🍓
